@@ -1,1 +1,2 @@
 Before any branching
+Line added in branch bugfix1 by Trubee
